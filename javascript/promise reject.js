@@ -47,7 +47,7 @@ function mark2(){
                 resolve("excellent");
             }
             else
-            {
+            {  
                 reject("worst");
             }
         }, 5000);

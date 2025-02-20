@@ -10,7 +10,8 @@ var a=20;
 console.log(a);
 
 
-//let--------------------ONLY REDECLARE
+//let--------------------ONLY Ressign 
+
 
 let c=10;
 c=20;
@@ -18,7 +19,7 @@ c=20;
 console.log(c);
 
 
-//const
+//const-----------------SPECIFIC OR UNIQUE VALUE
 
 const b=10;
 console.log(b);

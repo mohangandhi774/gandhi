@@ -1,5 +1,5 @@
 //settime out
-
+//It is an asynchronous function
 function task1(){
     setTimeout(() => {
         console.log("good");

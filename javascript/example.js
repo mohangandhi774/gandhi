@@ -4,4 +4,6 @@ var price=20;
 
 var total=count*price;
 console.log(fruitname);
-console.log(total);
+console.log(total
+    
+);
