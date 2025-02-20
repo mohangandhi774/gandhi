@@ -1,0 +1,63 @@
+// loops
+
+   // IT IS USED TO EXECUTE A BLOCK OF CODE REPEATEDLY
+
+//for loop
+
+//for(initialise;condition;increment or decrement);
+
+// for(let a=5;a<=10;a++){
+//     console.log(a);
+    
+// }
+
+
+//while loop
+
+//initialise
+//while()
+//run
+//++
+
+let b=1;
+while(b<=5){
+    console.log(b  );
+ b++;
+    
+}
+
+
+//do while
+
+// let c=5;
+// do{
+//     console.log(c);
+//     c++;
+    
+// }while (c<=10);
+
+
+//for of
+
+let veg=["tomato","brinjal","cabbage","bottle guard"];
+
+for(seperate of veg){
+
+    console.log(seperate);
+    
+}
+
+
+//for in
+
+let obj={
+
+    name:"gandhi",
+    age:24,
+    place:"namakkal"
+}
+for(sep in obj){
+
+    console.log(sep+": "+ obj[sep]);
+    
+}
