@@ -4,7 +4,7 @@
 
 //String
 
-console.log(typeof"mohan");
+console.log("mohan");
 
 //number
 
